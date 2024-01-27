@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @chinoigwe
 - 👀 I’m interested in tech
-- 🌱 I’m currently learning artificial intelligence
-- 💞️ I’m looking to collaborate on a variety of interesting projects
+- 🌱 I’m currently working on a lab where i navigate and explore the github interface.
+- 💞️ In the second part of the lab im exploring and using Jupyter Notebooks
+- ❤️ Finally im saving my notebook and sharing it through Github
 - 📫 How to reach me chinoigwe@skiff.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love to read romatic and mystry novels
